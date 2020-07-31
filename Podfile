@@ -10,5 +10,6 @@ pod 'Firebase/Database'
 pod 'Firebase/Firestore' 
 pod 'Firebase/Auth'
 pod 'MBProgressHUD', '~> 1.2.0'
+pod 'ReachabilitySwift'
 
 end

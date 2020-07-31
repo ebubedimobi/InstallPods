@@ -8,7 +8,8 @@
 
 import UIKit
 import Firebase
-
+import MBProgressHUD
+import Reachability
 
 class ViewController: UIViewController {
 
