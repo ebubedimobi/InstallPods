@@ -11,6 +11,9 @@ import Firebase
 import MBProgressHUD
 import Reachability
 import Toast_Swift
+import FBSDKCoreKit
+import FBSDKLoginKit
+import FBSDKShareKit
 
 class ViewController: UIViewController {
 
