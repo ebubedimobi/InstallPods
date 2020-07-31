@@ -10,6 +10,7 @@ import UIKit
 import Firebase
 import MBProgressHUD
 import Reachability
+import Toast_Swift
 
 class ViewController: UIViewController {
 

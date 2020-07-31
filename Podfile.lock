@@ -309,6 +309,7 @@ PODS:
   - nanopb/encode (1.30905.0)
   - PromisesObjC (1.2.9)
   - ReachabilitySwift (5.0.0)
+  - Toast-Swift (5.0.1)
 
 DEPENDENCIES:
   - Firebase/Auth
@@ -316,6 +317,7 @@ DEPENDENCIES:
   - Firebase/Firestore
   - MBProgressHUD (~> 1.2.0)
   - ReachabilitySwift
+  - Toast-Swift (~> 5.0.1)
 
 SPEC REPOS:
   trunk:
@@ -337,6 +339,7 @@ SPEC REPOS:
     - nanopb
     - PromisesObjC
     - ReachabilitySwift
+    - Toast-Swift
 
 SPEC CHECKSUMS:
   abseil: 6c8eb7892aefa08d929b39f9bb108e5367e3228f
@@ -357,7 +360,8 @@ SPEC CHECKSUMS:
   nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
   PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
 
-PODFILE CHECKSUM: 09053906a2603bdc386f55d96d9336198d732819
+PODFILE CHECKSUM: c4333d34789e0ab743455a2e84d3bd6c200d9200
 
 COCOAPODS: 1.9.3
